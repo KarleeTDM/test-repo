@@ -3,6 +3,7 @@
 //and their values won't change (be assigned new values)
 color GREEN = color(40, 255, 90);
 color DARK_GREEN = color(0, 120, 50);
+boolean thisOne = false;
 color BLUE = color(42, 155, 255);
 color DARK_BLUE = color(2, 115, 205);
 color YELLOW = color(255, 255, 5);
